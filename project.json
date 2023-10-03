@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[2.0.0]",
+    "UiPath.Excel.Activities": "[2.22.1-preview]",
     "UiPath.System.Activities": "[23.10.0-preview]",
     "UiPath.Testing.Activities": "[23.10.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.10.0-preview]"
